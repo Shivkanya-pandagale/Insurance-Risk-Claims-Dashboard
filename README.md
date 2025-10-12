@@ -55,7 +55,7 @@
 
 6.ScreenShorts/Demos
 
-     [Dashboard Preview](https://github.com/Shivkanya-pandagale/Insurance-Risk-Claims-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+    ![Dashboard](https://github.com/Shivkanya-pandagale/Insurance-Risk-Claims-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
   
 
 
