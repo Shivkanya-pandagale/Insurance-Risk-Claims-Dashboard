@@ -55,9 +55,10 @@
 
 6.ScreenShorts/Demos
 
-    ![Dashboard](https://github.com/Shivkanya-pandagale/Insurance-Risk-Claims-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+    Dashboard:
   
 
+<img width="1368" height="808" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/e99d391c-fe1e-4118-a135-d639bd339ead" />
 
 
 
